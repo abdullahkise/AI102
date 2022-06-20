@@ -1,0 +1,8 @@
+5 Temel Hizmet
+https://azure.microsoft.com/en-us/services/cognitive-services/
+
+Temel ve Alt Hizmetlerin dokumani
+https://docs.microsoft.com/en-us/azure/cognitive-services/
+
+Hangi bölgelerde kullanilabilir:
+https://azure.microsoft.com/en-us/global-infrastructure/services/?products=cognitive-services

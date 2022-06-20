@@ -1,0 +1,6 @@
+Bing
+https://azure.microsoft.com/en-us/services/cognitive-services/autosuggest/
+https://azure.microsoft.com/en-us/services/cognitive-services/bing-image-search-api/
+
+Content Moderator
+https://azure.microsoft.com/en-us/services/cognitive-services/content-moderator/

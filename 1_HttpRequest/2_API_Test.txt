@@ -1,0 +1,19 @@
+APIler
+Genel-> region.api.cognitive.microsoft.com/vision/v2.0/resource/[parameters]
+
+https://northeurope.dev.cognitive.microsoft.com/docs/services
+
+
+----------------------------------------------------------
+API Test (northeurope yerine hangi bölgede açtiysan onu yaz)
+https://northeurope.dev.cognitive.microsoft.com/docs/services/TextAnalytics.V2.0
+
+Supperted Languages
+https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/language-support
+
+---------------------
+Translator Text API v3.0
+https://docs.microsoft.com/en-us/azure/cognitive-services/translator/reference/v3-0-reference
+------------------------
+Doc
+https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/
