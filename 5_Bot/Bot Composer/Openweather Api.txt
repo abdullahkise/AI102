@@ -1,0 +1,12 @@
+https://openweathermap.org/current
+
+
+http://api.openweathermap.org/data/2.5/weather?q=#{user.sehirAdi}&appid=acea11202441ae7e33b3bf6200369cfa
+http://api.openweathermap.org/data/2.5/weather?zip=${user.postalcode},us&appid=acea11202441ae7e33b3bf6200369cfa
+
+
+
+
+
+https://docs.microsoft.com/en-us/composer/tutorial-create-weather-bot
+https://docs.microsoft.com/en-us/composer/tutorial-improve-intent-recognition-language-understanding

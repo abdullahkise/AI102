@@ -1,0 +1,23 @@
+QnA Maker sitesi
+https://www.qnamaker.ai/
+
+KB Bestpractices
+https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/concepts/best-practices
+
+
+API Reference
+https://westus.dev.cognitive.microsoft.com/docs/services/5a93fcf85b4ccd136866eb37/operations/5ac266295b4ccd1554da75ff
+
+----------------------
+Flat Source
+https://ailevecalisma.gov.tr/sss
+
+Multi-turn source
+surface manual pdf
+https://github.com/Azure-Samples/cognitive-services-sample-data-files/blob/master/qna-maker/data-source-formats/product-manual.pdf
+
+QnA KB Data Sources and Sample
+https://docs.microsoft.com/en-us/azure/cognitive-services/QnAMaker/concepts/data-sources-supported
+
+Covid SSS
+https://covid19.saglik.gov.tr/TR-66125/sikca-sorulan-sorular-halka-yonelik.html

@@ -1,0 +1,21 @@
+(imageUrl as text, apiKey as text)=>
+let
+    PostUrl = "https://northeurope.api.cognitive.microsoft.com/face/v1.0/detect
+                ?returnFaceId=true
+                &returnFaceLandmarks=false
+                &returnFaceAttributes=age,emotion,gender
+                &recognitionModel=recognition_01
+                &returnRecognitionModel=false
+                &detectionModel=detection_01",
+    PostBody = "{""Url"": """ & imageUrl & """}",
+		
+    PostRequest = Json.Document(
+                        Web.Contents(PostUrl, 					 		
+                                        [
+                                            Headers=[#"Content-Type"="application/json",#"Ocp-Apim-Subscription-Key"=apiKey],
+                                            Content=Text.ToBinary(PostBody)
+                                        ]
+                                    )
+                                )
+in
+    PostRequest
